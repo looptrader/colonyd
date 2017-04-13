@@ -1,0 +1,44 @@
+package: github.com/looptrader/colonyd
+import:
+- package: github.com/btcsuite/btclog
+- package: github.com/btcsuite/go-flags
+- package: github.com/btcsuite/go-socks
+  subpackages:
+  - socks
+- package: github.com/btcsuite/goleveldb
+  subpackages:
+  - leveldb
+  - leveldb/comparer
+  - leveldb/errors
+  - leveldb/filter
+  - leveldb/iterator
+  - leveldb/opt
+  - leveldb/util
+- package: github.com/btcsuite/seelog
+- package: github.com/btcsuite/websocket
+- package: github.com/btcsuite/winsvc
+  subpackages:
+  - eventlog
+  - mgr
+  - svc
+- package: github.com/davecgh/go-spew
+  subpackages:
+  - spew
+- package: github.com/decred/bitset
+- package: github.com/decred/blake256
+- package: github.com/decred/dcrrpcclient
+- package: github.com/decred/dcrutil
+  subpackages:
+  - bloom
+- package: github.com/decred/ed25519
+  subpackages:
+  - edwards25519
+- package: golang.org/x/crypto
+  subpackages:
+  - ripemd160
+  - ssh/terminal
+testImport:
+- package: github.com/stretchr/testify
+  version: ^1.1.0
+  subpackages:
+  - assert
