@@ -32,8 +32,8 @@ import (
 	"github.com/looptrader/colonyd/peer"
 	"github.com/looptrader/colonyd/txscript"
 	"github.com/looptrader/colonyd/wire"
-	"github.com/decred/dcrutil"
-	"github.com/decred/dcrutil/bloom"
+	"github.com/looptrader/colonyutil"
+	"github.com/looptrader/colonyutil/bloom"
 )
 
 const (

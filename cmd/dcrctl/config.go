@@ -15,7 +15,7 @@ import (
 	"strings"
 
 	"github.com/looptrader/colonyd/dcrjson"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 
 	flags "github.com/btcsuite/go-flags"
 )

@@ -12,7 +12,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/chaincfg/chainec"
 	"github.com/looptrader/colonyd/wire"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // RawTxInSignature returns the serialized ECDSA signature for the input idx of

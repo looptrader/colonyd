@@ -10,7 +10,7 @@ package database
 
 import (
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // Cursor represents a cursor over key/value pairs and nested buckets of a

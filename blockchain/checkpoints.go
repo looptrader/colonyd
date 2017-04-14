@@ -12,7 +12,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	"github.com/looptrader/colonyd/database"
 	"github.com/looptrader/colonyd/txscript"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // CheckpointConfirmations is the number of blocks before the end of the current

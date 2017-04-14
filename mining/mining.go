@@ -10,7 +10,7 @@ import (
 
 	"github.com/looptrader/colonyd/blockchain/stake"
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // TxDesc is a descriptor about a transaction in a transaction source along with

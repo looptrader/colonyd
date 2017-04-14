@@ -12,7 +12,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/chaincfg/chainec"
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 const (

@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 
 	flags "github.com/btcsuite/go-flags"
 )

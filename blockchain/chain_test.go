@@ -14,7 +14,7 @@ import (
 	"testing"
 
 	"github.com/looptrader/colonyd/blockchain"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // TestBlockchainFunction tests the various blockchain API to ensure proper

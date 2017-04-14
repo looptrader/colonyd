@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/looptrader/colonyd/blockchain/stake"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // TestTxFeePrioHeap ensures the priority queue for transaction fees and

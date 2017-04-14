@@ -12,7 +12,7 @@ import (
 	"github.com/btcsuite/btclog"
 
 	"github.com/looptrader/colonyd/wire"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // BlockProgressLogger provides periodic logging for other services in order

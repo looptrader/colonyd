@@ -11,7 +11,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 	"github.com/looptrader/colonyd/blockchain/stake"
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	"github.com/looptrader/colonyd/txscript"

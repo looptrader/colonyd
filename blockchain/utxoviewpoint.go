@@ -11,7 +11,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	"github.com/looptrader/colonyd/database"
 	"github.com/looptrader/colonyd/txscript"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // StakeViewpoint is the viewpoint of the blockchain depending on stake

@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/looptrader/clnyd/addrmgr"
-	"github.com/looptrader/clnyd/wire"
+	"github.com/looptrader/colonyd/addrmgr"
+	"github.com/looptrader/colonyd/wire"
 )
 
 // naTest is used to describe a test to be performed against the NetAddressKey

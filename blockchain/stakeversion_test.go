@@ -12,7 +12,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	"github.com/looptrader/colonyd/wire"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // newFakeChain returns a chain that is usable for syntetic tests.

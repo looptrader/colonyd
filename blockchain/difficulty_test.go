@@ -15,7 +15,7 @@ import (
 	//	"github.com/looptrader/colonyd/blockchain/stake"
 	//	"github.com/looptrader/colonyd/chaincfg"
 	//	"github.com/looptrader/colonyd/database"
-	//"github.com/decred/dcrutil"
+	//"github.com/looptrader/colonyutil"
 )
 
 func TestBigToCompact(t *testing.T) {

@@ -15,7 +15,7 @@ import (
 
 	"github.com/looptrader/colonyd/blockchain"
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // reorgTestLong does a single, large reorganization.

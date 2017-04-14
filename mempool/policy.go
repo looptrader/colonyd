@@ -11,7 +11,7 @@ import (
 	"github.com/looptrader/colonyd/blockchain/stake"
 	"github.com/looptrader/colonyd/txscript"
 	"github.com/looptrader/colonyd/wire"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 const (

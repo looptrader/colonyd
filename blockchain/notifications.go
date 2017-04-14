@@ -9,7 +9,7 @@ import (
 	"fmt"
 
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // NotificationType represents the type of a notification message.

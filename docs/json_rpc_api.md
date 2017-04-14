@@ -991,7 +991,7 @@ package main
 
 import (
 	"github.com/decred/dcrrpcclient"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 	"io/ioutil"
 	"log"
 	"path/filepath"
@@ -1051,7 +1051,7 @@ package main
 
 import (
 	"github.com/decred/dcrrpcclient"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 	"github.com/looptrader/colonyd/wire"
 	"io/ioutil"
 	"log"
@@ -1141,7 +1141,7 @@ package main
 
 import (
 	"github.com/decred/dcrrpcclient"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 	"github.com/looptrader/colonyd/wire"
 	"io/ioutil"
 	"log"

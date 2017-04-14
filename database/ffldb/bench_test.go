@@ -12,7 +12,7 @@ import (
 
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/database"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // BenchmarkBlockHeader benchmarks how long it takes to load the mainnet genesis

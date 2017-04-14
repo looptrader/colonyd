@@ -9,7 +9,7 @@ import (
 	"math"
 
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // nextPowerOfTwo returns the next highest power of two from a given number if

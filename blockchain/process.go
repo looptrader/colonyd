@@ -11,7 +11,7 @@ import (
 
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	"github.com/looptrader/colonyd/database"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // BehaviorFlags is a bitmask defining tweaks to the normal behavior when

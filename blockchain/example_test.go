@@ -15,7 +15,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/database"
 	_ "github.com/looptrader/colonyd/database/ffldb"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

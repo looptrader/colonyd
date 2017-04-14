@@ -25,7 +25,7 @@
 //          "fmt"
 //          "log"
 //
-//          "github.com/decred/dcrutil"
+//          "github.com/looptrader/colonyutil"
 //          "github.com/looptrader/colonyd/chaincfg"
 //  )
 //

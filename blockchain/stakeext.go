@@ -9,7 +9,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	"github.com/looptrader/colonyd/database"
 	"github.com/looptrader/colonyd/txscript"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // NextLotteryData returns the next tickets eligible for spending as SSGen

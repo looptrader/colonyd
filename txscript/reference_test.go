@@ -18,7 +18,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	. "github.com/looptrader/colonyd/txscript"
 	"github.com/looptrader/colonyd/wire"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // testName returns a descriptive test name for the given reference test data.

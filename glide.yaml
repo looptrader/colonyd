@@ -27,7 +27,7 @@ import:
 - package: github.com/decred/bitset
 - package: github.com/decred/blake256
 - package: github.com/decred/dcrrpcclient
-- package: github.com/decred/dcrutil
+- package: github.com/looptrader/colonyutil
   subpackages:
   - bloom
 - package: github.com/decred/ed25519

@@ -15,7 +15,7 @@ import (
 	"time"
 
 	flags "github.com/btcsuite/go-flags"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 type config struct {

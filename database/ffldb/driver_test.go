@@ -16,7 +16,7 @@ import (
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/database"
 	"github.com/looptrader/colonyd/database/ffldb"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // dbType is the database type name for this driver.

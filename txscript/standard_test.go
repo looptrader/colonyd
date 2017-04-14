@@ -13,7 +13,7 @@ import (
 
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/txscript"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // decodeHex decodes the passed hex string and returns the resulting bytes.  It

@@ -11,7 +11,7 @@ import (
 	"github.com/looptrader/colonyd/blockchain"
 	"github.com/looptrader/colonyd/blockchain/chaingen"
 	"github.com/looptrader/colonyd/chaincfg"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // TestStakeVersion ensures that the stake version field in the block header is
